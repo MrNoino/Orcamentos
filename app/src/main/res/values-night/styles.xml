@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="app_bar">
+
+        <item name="android:background">#121212</item>
+
+    </style>
+
+
+    <style name="bottom_navigation">
+
+        <item name="android:background">#111111</item>
+
+    </style>
+
+    <style name="font_color">
+
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+    <style name="tab_layout">
+        <item name="tabTextColor">#87CEEB</item>
+        <item name="tabIndicatorColor">#87CEEB</item>
+        <item name="android:background">#121212</item>
+    </style>
+
+    <style name="blue_btn">
+        <item name="android:backgroundTint">#00BFFF</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="gold_btn">
+        <item name="android:backgroundTint">#DAA520</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="icon" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="backgroundTint">#C0C0C0</item>
+    </style>
+
+</resources>

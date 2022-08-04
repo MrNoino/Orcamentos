@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_new">
+
+    <fragment
+        android:id="@+id/navigation_new"
+        android:name="com.example.orcamentos.Fragments.NewFragment"
+        android:label="@string/title_new"
+        tools:layout="@layout/fragment_new" />
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.example.orcamentos.Fragments.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.orcamentos.Fragments.ProfileFragment"
+        android:label="@string/title_company"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.orcamentos.Fragments.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

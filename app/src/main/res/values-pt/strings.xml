@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orçamentos</string>
+    <string name="title_new">Novo Orçamento</string>
+    <string name="title_search">Pesquisar Orçamento</string>
+    <string name="title_company">Perfil da Empresa</string>
+    <string name="title_settings">Definições</string>
+    <string name="label_company_name">Nome da Empresa</string>
+    <string name="label_company_contact">Contato da Empresa</string>
+    <string name="label_company_email">Email da Empresa</string>
+    <string name="label_owner_name">Nome do Dono</string>
+    <string name="label_company_address">" Morada da Empresa"</string>
+    <string name="label_zip_code">Código Postal</string>
+    <string name="label_location">Localidade</string>
+    <string name="label_customer_name">Nome do Cliente</string>
+    <string name="label_customer_contact">Contato do Cliente</string>
+    <string name="label_customer_email">Email do Cliente</string>
+    <string name="label_budget_date">Data do Orçamento</string>
+    <string name="label_day">Dia</string>
+    <string name="label_month">Mês</string>
+    <string name="label_year">Ano</string>
+    <string name="label_budget_title">Título do Orçamento</string>
+    <string name="label_travel_distance">Distância de Viagem</string>
+    <string name="placeholder_travel_distance">Insere a distância da viagem em quilómetros para o local de trabalho</string>
+    <string name="label_travel_price">Preço da Viagem</string>
+    <string name="placeholder_travel_price">Insere o preço por um kilômetro viajado</string>
+    <string name="label_parking">Estacionamento</string>
+    <string name="label_work_time">Tempo de Trabalho</string>
+    <string-array name="array_time1">
+        <item>Dias</item>
+        <item>Horas</item>
+        <item>Minutos</item>
+    </string-array>
+    <string-array name="array_time2">
+        <item>dia</item>
+        <item>hora</item>
+        <item>minuto</item>
+    </string-array>
+    <string name="label_labor_quantity">Quantidade Mão de Obra</string>
+    <string name="label_labor_price">Preço Mão de Obra</string>
+    <string name="label_total_service">Total do Serviço</string>
+    <string name="placeholder_labor_price">Insere o pagamento de uma pessoa</string>
+    <string name="label_discount">Desconto</string>
+    <string name="label_total_budget">Total do Orçamento</string>
+    <string name="label_obs">Observações</string>
+    <string name="label_save">Guardar</string>
+    <string name="title_information">Informação</string>
+    <string name="title_material">Material</string>
+    <string name="title_work">Trabalho</string>
+    <string name="placeholder_labor_quantity">Insere a quantidade de pessoas</string>
+    <string name="placeholder_parking">Insere o custo de estacionamento</string>
+    <string name="label_send">Enviar</string>
+    <string name="label_add">Adicionar</string>
+    <string name="label_remove">Remover</string>
+    <string name="label_area">Área</string>
+    <string name="label_unit">Unidade</string>
+    <string name="label_price_unit">Preço por Unidade</string>
+    <string name="label_quantity">Quantidade</string>
+    <string name="label_total_price">Preço Total</string>
+    <string name="label_per">por</string>
+    <string name="label_finish">Finalizar</string>
+    <string name="label_update">Atualizar</string>
+    <string name="label_search">Pesquisar</string>
+    <string name="placeholder_search_area">Pesquisar área</string>
+    <string name="placeholder_search_material">Pesquisar material</string>
+    <string name="placeholder_search_unit">Pesquisar unidade</string>
+    <string name="placeholder_price_unit">Insere o preço por unidade do material</string>
+    <string name="placeholder_quantity">Insere a quantidade do material</string>
+    <string name="placeholder_budget_title">Insere o título do orçamento</string>
+    <string name="placeholder_customer_name">Insere o nome do cliente</string>
+    <string name="placeholder_customer_contact">Insere o contato do cliente</string>
+    <string name="placeholder_customer_email">Insere o email do cliente</string>
+    <string name="placeholder_work_time">Insere o tempo de trabalho</string>
+    <string name="placeholder_discount">Insere o desconto</string>
+    <string name="placeholder_total_budget">O total do orçamento</string>
+    <string name="placeholder_obs">Insere observações</string>
+    <string name="placeholder_company_name">Insere o nome da empresa</string>
+    <string name="placeholder_owner_name">Insere o nome do dono</string>
+    <string name="placeholder_company_contact">Insere o contato da empresa</string>
+    <string name="placeholder_company_email">Insere o email da empresa</string>
+    <string name="placeholder_company_address">Insere a morada da empresa</string>
+    <string name="placeholder_postal_code">Insere o código postal da empresa</string>
+    <string name="placeholder_company_location">Insere a localidade da empresa</string>
+    <string name="label_search_for">Pesquisa por</string>
+    <string name="label_successfully_updated">Atualizado com sucesso</string>
+    <string name="label_not_updated">Não atualizado</string>
+    <string name="label_close">Fechar</string>
+</resources>
